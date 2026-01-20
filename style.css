@@ -8,7 +8,7 @@ body {
 .photo {
     display: block;
     margin: 0 auto;
-    border: 1px solid #2f00ff ;
+    border: 1px solid #2f00ff;
     border-radius: 50%;
 }
 
@@ -17,7 +17,9 @@ body {
     color: #1c009b;
 }
 
-#title, .subtitle, .post_title {
+#title,
+.subtitle,
+.post_title {
     color: #2f00ff;
 }
 
@@ -61,5 +63,5 @@ a {
 }
 
 .contacts_list li a {
-   text-decoration: none;
+    text-decoration: none;
 }
